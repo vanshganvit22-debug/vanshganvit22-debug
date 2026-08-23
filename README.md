@@ -1,12 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Vansh Ganvit
-
-</div>
-
-<div align="left">
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
+
+# 👋 Hey, I'm Vansh 
 
 </div>
 
@@ -14,4 +10,6 @@
 
 ## 🚀 About Me
 
-Hi! I'm Vansh, a developer and tech enthusiast passionate about building projects and solving problems.
+Hi! I'm Vansh, a tech enthusiast passionate about building projects and solving problems.
+
+<!-- Add your remaining README content below -->
