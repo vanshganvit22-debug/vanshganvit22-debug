@@ -6,11 +6,11 @@
 
 </div>
 
-<br>
+---
 
 ## 🚀 About Me
 
-💻 Tech enthusiast who loves building projects and solving problems.  
+💻 Tech enthusiast passionate about **building projects & solving problems**.  
 🧠 Currently improving my **DSA & problem-solving skills**.  
 🚀 Interested in **Python, AI, Computer Vision & Software Development**.
 
@@ -24,47 +24,51 @@
 
 </p>
 
-### 🧠 Core Skills
+<p align="left">
 
 `🐍 Python` &nbsp; `⚡ C++` &nbsp; `🧩 DSA` &nbsp; `🔍 Problem Solving`
+
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎮 Hand Gesture Controller
-
-> Control applications and games using **hand gestures** with Computer Vision.
-
-**Tech Stack:**  
-`🐍 Python` `👁️ OpenCV` `🤖 MediaPipe`
-
-**✨ Highlights**
-- 🖐️ Real-time hand gesture detection
-- 🎮 Gesture-based game control
-- ⚡ Real-time computer vision processing
-
----
-
-### 🅿️ Smart Parking System
-
-> A smart parking solution designed to make **parking management easier and smarter**.
-
-**Tech Stack:**  
-`🐍 Python` `🌐 Web Development` `🗄️ Database`
-
-**✨ Highlights**
-- 🚗 Parking slot management
-- 📍 Track parking availability
-- ⚡ Simple and efficient parking management
+| 🎯 Project | 📝 Description | 🛠️ Tech |
+|:---|:---|:---|
+| 🎮 **Hand Gesture Controller** | 🖐️ Control games & applications using real-time hand gestures | `Python` `OpenCV` `MediaPipe` |
+| 🅿️ **Smart Parking** | 🚗 Manage parking slots and track availability efficiently | `Python` `Web` `Database` |
 
 ---
 
 ## 🧠 Currently Learning
 
-```text
-🐍 Python
-⚡ C++
-🧩 Data Structures & Algorithms
-💻 Backend Development
-🤖 AI & Computer Vision
+<p align="left">
+
+🧩 **Data Structures & Algorithms** &nbsp; • &nbsp;
+🐍 **Python** &nbsp; • &nbsp;
+⚡ **C++** &nbsp; • &nbsp;
+🤖 **AI & Computer Vision** &nbsp; • &nbsp;
+💻 **Backend Development**
+
+</p>
+
+---
+
+## 🔥 My Goal
+
+<div align="left">
+
+**Learn → Build → Solve → Improve 🚀**
+
+</div>
+
+---
+
+<div align="left">
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something awesome together 🚀**
+
+</div>
